@@ -1,10 +1,10 @@
 import { Sequelize, ConnectionOptions } from 'sequelize';
 
 const options: ConnectionOptions = {
-    database: 'escuela',
+    database: 'xxxxx',
     host: 'localhost',
-    password: 'Mafs1920',
-    username: 'root',
+    password: 'xxxxxxx',
+    username: 'xxxx',
 };
 
 const sequelize = new Sequelize('escuela', 'root', 'Mafs1920', {
